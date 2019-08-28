@@ -6,7 +6,7 @@
 ![我是图片](https://wx1.sinaimg.cn/mw1024/006pTt9Mly1g6f6u545hkj31400u0wgv.jpg)
 
 2.在终端下输入，csrutil disable，解除保护。如果不解除保护的话，会造成某些文件无法访问，导致矿机程序无法彻底删除。
-![我是图片](https://wx1.sinaimg.cn/mw1024/006pTt9Mly1g6f6u545hkj31400u0wgv.jpg)
+![我是图片](https://wx3.sinaimg.cn/mw1024/006pTt9Mly1g6f6u58gmqj31400u0acu.jpg)
 
 3.重启电脑，什么也不按，进入界面。并且运行git上下载的test3和test4。一个一个的运行，运行完成以后，重启即可恢复。
 
